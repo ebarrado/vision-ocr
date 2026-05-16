@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+azure-ai-vision-imageanalysis
+azure-core
+Pillow
+gunicorn
+requests
+azure-cognitiveservices-vision-computervision
